@@ -1,6 +1,14 @@
 Greenscreen CSS Framework Change Log
 ----------------------------------------------------------------
 
+
+2010-10-29  Domenico Monaco  <domenico.monaco@kiuz.it>
+--
+  New features:
+	* New blank files:
+	    * tablet.css
+	    * mobile.css
+
 2010-10-19  Domenico Monaco  <domenico.monaco@kiuz.it>
 --
   New features:
