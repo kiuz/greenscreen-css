@@ -1,14 +1,14 @@
 h1. GreenScreen CSS Framework Readme
 
-Welcome to GreenScreen! This is a CSS framework forked by "Greenscreen" designed to cut down on your CSS development time.
-It gives you a solid foundation and fast to build your own CSS on.
+Welcome to GreenScreen! This is a CSS framework forked by "Blueprint" designed more modular then Blueprint.
+It gives you a solid foundation and fast to build your own CSS on, this eredited by Blueprint contributes.
 
-h2. Some Difference by Greenscreen Css
+h2. Some Difference of Greenscreen Css
  * Deleted margins, all of columns are adjacent with out margin, if you would margins you must add inner div with margins
  * More modularized with extracting Debuging propertyes and Pull & Push selectors into new files
- * Is no 960, not 950 such as Greenscreen
+ * Basic width 960, not 950 such as Blueprint Css
  * Deleted "borders" selectors...
- * .. and more
+ * .. and more changes
 
 We make "GreenScreen" more powerfull and more modularized then Blueprint.
 
